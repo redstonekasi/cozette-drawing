@@ -1,0 +1,37 @@
+diff --git a/Cozette/Cozette.sfd b/Cozette/Cozette.sfd
+index 844ff26..5dbe345 100644
+--- a/Cozette/Cozette.sfd
++++ b/Cozette/Cozette.sfd
+@@ -1,7 +1,7 @@
+ SplineFontDB: 3.2
+-FontName: Cozette
+-FullName: Cozette
+-FamilyName: Cozette
++FontName: CozetteDrawing
++FullName: CozetteDrawing
++FamilyName: CozetteDrawing
+ Weight: Medium
+ Copyright: (c) 2020-2022 Slavfox
+ Version: 1.191
+@@ -26352,10 +26352,10 @@ EndChar
+ EndChars
+ BitmapFont: 13 2922 10 3 1
+ BDFStartProperties: 42
+-FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
++FONT 1 "-slavfox-CozetteDrawing-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
+ COMMENT 0 "(c) 2020-2022 Slavfox"
+ FOUNDRY 16 "slavfox"
+-FAMILY_NAME 16 "Cozette"
++FAMILY_NAME 16 "CozetteDrawing"
+ WEIGHT_NAME 16 "Medium"
+ SLANT 16 "R"
+ SETWIDTH_NAME 16 "Normal"
+@@ -26369,7 +26369,7 @@ AVERAGE_WIDTH 18 60
+ CHARSET_REGISTRY 16 "ISO10646"
+ CHARSET_ENCODING 16 "1"
+ FONTNAME_REGISTRY 16 ""
+-FONT_NAME 16 "Cozette"
++FONT_NAME 16 "CozetteDrawing"
+ FACE_NAME 16 "Cozette"
+ COPYRIGHT 16 "(c) 2020-2022 Slavfox"
+ FONT_VERSION 16 "1.191"
