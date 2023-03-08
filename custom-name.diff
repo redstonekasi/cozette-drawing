@@ -1,5 +1,14 @@
+From d5513ff1a53e563c49096e612fdb754d0e79e029 Mon Sep 17 00:00:00 2001
+From: redstonekasi <kasi@hanneskann.de>
+Date: Wed, 8 Mar 2023 15:24:21 +0100
+Subject: [cd] custom name
+
+---
+ Cozette/Cozette.sfd | 12 ++++++------
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
 diff --git a/Cozette/Cozette.sfd b/Cozette/Cozette.sfd
-index 844ff26..5dbe345 100644
+index 844ff26..7b5573c 100644
 --- a/Cozette/Cozette.sfd
 +++ b/Cozette/Cozette.sfd
 @@ -1,7 +1,7 @@
@@ -35,3 +44,6 @@ index 844ff26..5dbe345 100644
  FACE_NAME 16 "Cozette"
  COPYRIGHT 16 "(c) 2020-2022 Slavfox"
  FONT_VERSION 16 "1.191"
+-- 
+2.39.2
+

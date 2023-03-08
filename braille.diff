@@ -1,8 +1,17 @@
+From 34c72e649f681adf2a7cbde7961476e205c1dea3 Mon Sep 17 00:00:00 2001
+From: redstonekasi <kasi@hanneskann.de>
+Date: Wed, 8 Mar 2023 15:23:06 +0100
+Subject: [cd] braille characters
+
+---
+ Cozette/Cozette.sfd | 1020 +++++++++++++++++++++----------------------
+ 1 file changed, 510 insertions(+), 510 deletions(-)
+
 diff --git a/Cozette/Cozette.sfd b/Cozette/Cozette.sfd
-index ffdd9ca..b8e9f93 100644
+index 844ff26..fb1d45d 100644
 --- a/Cozette/Cozette.sfd
 +++ b/Cozette/Cozette.sfd
-@@ -17348,516 +17348,516 @@ BDFChar: 655 10012 6 0 6 0 6
+@@ -27710,516 +27710,516 @@ BDFChar: 655 10012 6 0 6 0 6
  3&npt`],pX
  BDFChar: 656 10030 6 1 5 1 6
  +<^GuE/4Jo
@@ -1029,3 +1038,6 @@ index ffdd9ca..b8e9f93 100644
  BDFChar: 912 57504 6 1 5 -2 7
  J<7:&OJ"jhJ:IV"
  BDFChar: 913 57505 6 1 5 -2 7
+-- 
+2.39.2
+
