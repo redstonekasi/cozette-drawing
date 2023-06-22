@@ -20,15 +20,15 @@ index 844ff26..7b5573c 100644
 +FullName: CozetteDrawing
 +FamilyName: CozetteDrawing
  Weight: Medium
- Copyright: (c) 2020-2022 Slavfox
- Version: 1.191
+ Copyright: (c) 2020-2023 Slavfox
+ Version: 1.200
 @@ -26352,10 +26352,10 @@ EndChar
  EndChars
- BitmapFont: 13 2922 10 3 1
+ BitmapFont: 13 2979 10 3 1
  BDFStartProperties: 42
 -FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 +FONT 1 "-slavfox-CozetteDrawing-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
- COMMENT 0 "(c) 2020-2022 Slavfox"
+ COMMENT 0 "(c) 2020-2023 Slavfox"
  FOUNDRY 16 "slavfox"
 -FAMILY_NAME 16 "Cozette"
 +FAMILY_NAME 16 "CozetteDrawing"
@@ -42,8 +42,8 @@ index 844ff26..7b5573c 100644
 -FONT_NAME 16 "Cozette"
 +FONT_NAME 16 "CozetteDrawing"
  FACE_NAME 16 "Cozette"
- COPYRIGHT 16 "(c) 2020-2022 Slavfox"
- FONT_VERSION 16 "1.191"
+ COPYRIGHT 16 "(c) 2020-2023 Slavfox"
+ FONT_VERSION 16 "1.200"
 -- 
 2.39.2
 
